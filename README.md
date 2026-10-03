@@ -49,6 +49,14 @@ A recap of a book without spoiling the sequel.
 
 <div shift="clear: both;"></div>
 
+### The Powerless Series
+<img src="POWERLESSSERIES.jpg" width="200" align="right">
+
+- [Powerless](powerless.html)
+- Reckless (coming soon)
+
+<div shift="clear: both;"></div>
+
 ## What You'll Find Here
 
 - What happens in the book (5-10 minutes)
